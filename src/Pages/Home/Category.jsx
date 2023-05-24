@@ -6,7 +6,7 @@ import info from '../../assets/info.png'
 
 const Category = () => {
     return (
-        <div className='bg-gray-200 bg-opacity-30 flex  mx-auto  gap-10  justify-center my-10'>
+        <div className='bg-gray-200 bg-opacity-30 flex  mx-auto  justify-center my-10'>
             <div className='grid text-center py-10 hover:-translate-y-4 ms-4 text-[10px] lg:text-[20px] duration-300 ' >
          <img className='w-6 h-6 lg:w-20 lg:h-20 md:w-10 md:h-10 my-auto mx-auto ' src="https://img.freepik.com/premium-vector/medicine-pills-cartoon-icon-illustration-medical-healthy-icon-concept-isolated-flat-cartoon-style_138676-1704.jpg?w=740" alt="" />
                 <div>

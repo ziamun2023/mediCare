@@ -22,13 +22,13 @@ const Navbar = () => {
     
        </div>
        <>
-                <ul className='flex gap-2 my-5'>
-                    <li className='mx-5 font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Home</li>
-                    <li className='mx-5 font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Shop</li>
-                    <li className='mx-5 font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Page</li>
-                    <li className='mx-5 font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Blog</li>
-                    <li className='mx-5 font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>on sale</li>
-                    <li className='mx-5 font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Contact</li>
+                <ul className='flex my-5'>
+                    <li className=' font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Home</li>
+                    <li className=' font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Shop</li>
+                    <li className=' font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Page</li>
+                    <li className=' font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Blog</li>
+                    <li className=' font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>on sale</li>
+                    <li className=' font-bold tracking-wide text-black hover:text-[rgb(72,209,186)]'>Contact</li>
                 </ul>
             </>
           
